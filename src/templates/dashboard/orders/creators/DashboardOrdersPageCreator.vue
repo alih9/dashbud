@@ -8,6 +8,6 @@
 </template>
 
 <script setup lang="ts">
-import { DashboardWrapper } from '@/templates/dashboard/Dashboard.js'
-import DashboardOrdersPageContentCreator from './DashboardOrdersPageContentCreator.vue'
+import { DashboardWrapper } from '@/templates/dashboard/Dashboard'
+// import DashboardOrdersPageContentCreator from './DashboardOrdersPageContentCreator.vue'
 </script>
